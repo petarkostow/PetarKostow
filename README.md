@@ -1,7 +1,13 @@
-### Hi there 👋
+Hi, I am Petar Kostov. 
+- Python Enthusiast 💻
+- Learning Python @ SoftUni 🐍
+- Crypto Trading 📈
+- Crypto Mining ⛏
+
+
 
 <!--
-**petarkostow/PetarKostow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PetarKostow/PetarKostow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
