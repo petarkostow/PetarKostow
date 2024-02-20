@@ -1,6 +1,7 @@
 Hi, I am Petar Kostov. 
 - Python Enthusiast 💻
 - Learning Python @ SoftUni 🐍
+- Learning QA @ SoftUni 🐛
 - Crypto Trading 📈
 - Crypto Mining ⛏
 
